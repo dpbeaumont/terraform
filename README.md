@@ -1,2 +1,2 @@
-# terraform
-Terraform examples
+# Terraform
+Some Terraform examples.
